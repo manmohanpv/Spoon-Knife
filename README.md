@@ -11,3 +11,5 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 added test
 added local for merge conflict
+
+2nd mg conflict remote
